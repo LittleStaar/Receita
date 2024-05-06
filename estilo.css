@@ -1,0 +1,30 @@
+h1{
+    color:rgb(32, 86, 137);
+    background-color:rgb(125, 188, 220);
+    text-align: center;
+}
+h2{
+    color:rgb(46, 131, 174);
+    background-color:rgb(125, 188, 220);
+}
+h3{
+    font-size: x-large;
+    color:rgb(32, 86, 137);
+}
+body{
+    background-color: rgb(193, 239, 238);
+}
+ul{
+    font-size: x-large;
+    color:rgb(32, 86, 137);
+}
+ol{
+    font-size: x-large;
+    color:rgb(32, 86, 137);
+}
+.parent{
+    text-align : center;
+   }
+table{
+    align-items: center;
+}
