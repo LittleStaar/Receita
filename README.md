@@ -10,5 +10,5 @@ O objetivo do projeto foi escolher uma receita e organizá-la na página HTML, c
 * HTML
 * CSS 
 
-## Autores
+## Autor
 <b>Aline Kettylen Oliveira da Silva</b>
